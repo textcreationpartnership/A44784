@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some few proposals for publick service both by sea and land: humbly offered to consideration, by Samuel Howett.</title>
+            <author>Howett, Samuel, mechanician.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44784</idno>
+            <idno type="STC">Wing H3153</idno>
+            <idno type="STC">ESTC R215411</idno>
+            <idno type="EEBO-CITATION">99827301</idno>
+            <idno type="PROQUEST">99827301</idno>
+            <idno type="VID">31719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some few proposals for publick service both by sea and land: humbly offered to consideration, by Samuel Howett.</title>
+                  <author>Howett, Samuel, mechanician.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A1r is blank; caption title on A2v.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:31719:1"/>
+            <head>SOME FEW PROPOSALS <hi>For publick Service, both by</hi> SEA <hi>and</hi> LAND: Humbly offered to Conſideration,</head>
+            <byline>By <hi>SAM<g ref="char:V">Ʋ</g>EL HOWETT.</hi>
+            </byline>
+            <p n="1">I. THE Firſt, being Two PROPOSALS, [<hi>For</hi> and <hi>Againſt.</hi>]</p>
+            <p n="1">1. For a Man of War againſt a Mer<g ref="char:EOLhyphen"/>chant's Ship, whom I call the <hi>Seeker.</hi>
+            </p>
+            <p n="2">2. Againſt a Man of War by a Merchant's Ship, whom I call the <hi>Defender.</hi>
+            </p>
+            <p>Together with an <hi>Objection</hi> and an <hi>Anſwer.</hi>
+            </p>
+            <p n="2">II. For the more ſafe and ſpeedy landing an Army in an Enemies Country, than hath been practis'd.</p>
+            <p n="3">III. For the planting about 100 extraordinary long and heavy Musquet-Barrels on a Waggon, in about three Foot ſquare in breadth and height.</p>
+            <p n="4">IV. For the charging of Field-pieces without Car<g ref="char:EOLhyphen"/>theridges or Ladles.</p>
+            <div type="proposal">
+               <pb n="3" facs="tcp:31719:1" rendition="simple:additions"/>
+               <head>
+                  <hi>The firſt Two PROPOSALS,</hi> Being <hi>FOR</hi> and <hi>AGAINST,</hi> Humbly and Chiefly offered to Conſideration:</head>
+               <p>The One for Offence, by a Man of War, whom I call the <hi>Seeker.</hi>
+               </p>
+               <p>The other for Defence, by a Merchant's Ship, whom I call the <hi>Defender.</hi>
+               </p>
+               <p>
+                  <hi>FIrſt, FOR.</hi> The firſt ſhewing how the <hi>Seeker,</hi> when he hath laid the other on board, may employ 20 of his Men ſo, that in a few Minutes, (provided they take the opportune time) he may make himſelf Maſter of the Upper Deck, whereby he will not on<g ref="char:EOLhyphen"/>ly ſecure his Enemies Men betwixt Decks, but preſerve his own from much hurt and damage.</p>
+               <p>That the <hi>Seeker</hi> may in a little time alſo, ſecure all the Ports on that ſide the Ship that he lays her on board of.</p>
+               <p>After which,</p>
+               <p>The <hi>Seeker</hi> may diſpoſe of the <hi>Defender's</hi> Sails and Yards ſo, that the Ship will have little or no motion. That thereby the <hi>Seeker</hi> may put off his Ship, and lie thwart or croſs the other Ships Stem or Stern, and rake his Ship fore and aft, till he doth ſurrender, or ſuffer his Ship to be burnt or ſunk. Either of which the <hi>Seeker</hi> may do at his pleaſure.</p>
+               <p>All which may be performed in leſs than an hour's time, as is ſuppoſed.</p>
+               <p>
+                  <hi>Secondly, AGAINST.</hi> That notwithſtanding all that is aforeſaid,</p>
+               <p>It is humbly offered to ſhew, How the <hi>Defender's</hi> Ship may be ſo fitted and provided, as to prevent the <hi>Seeker's</hi> great deſign of entring his Men on board the Ship's Deck: For that they ſeeing ſo much hazard (if not Deſtruction) attend them, if they ſhould proceed: They will (as is preſum'd) forbear that Attempt.</p>
+               <p>All which is to be performed by ſuch Ways and Inſtruments as have not been practiſed by any People or Nation whatſoever.</p>
+               <p>
+                  <pb n="4" facs="tcp:31719:2"/>Here follows an <hi>Objection,</hi> with an <hi>Anſwer</hi> thereto.</p>
+               <p>
+                  <hi>Object.</hi> You ſay, How a Man of War may attack a Merchant's Ship with probable Succeſs. And alſo,</p>
+               <p>How a Merchant's Ship may, with aſſiſtance of Inſtruments, be defended from being entred by a Man of War. But you ſay no<g ref="char:EOLhyphen"/>thing in caſe two Men of War, Enemies to each other, ſhould meet, they being of equal bigneſs, and numbers of Men and great<g ref="char:EOLhyphen"/>Guns, (be they 40, more or leſs) which of them probably may have the advantage.</p>
+               <p>To which I anſwer:</p>
+               <p>
+                  <hi>Anſw.</hi> The two Ships of War I do call by the names of the <hi>Bear</hi> and <hi>Dog;</hi> and I do give each of them an advantage of the other, tho in different manner.</p>
+               <p>The <hi>Bear</hi> I do furniſh with the defenſive Inſtruments afore<g ref="char:EOLhyphen"/>mentioned, as his advantage, he having but 200 Men.</p>
+               <p>The <hi>Dog</hi> hath none of the defenſive Inſtruments, but hath 50 Men extraordinary added as his Advantage, ſo that he hath 250 Men.</p>
+               <p>The <hi>Bear</hi> being ſo provided, fears not his Enemies entring his Men on board him (tho he hath 50 Men more.) And having oc<g ref="char:EOLhyphen"/>caſion to fight with but half his Guns, and they all of one ſide; and none of his Men being needful to appear upon the Deck in the ſight of his Enemies, he may therefore divide his Men into two parts: The one half he may ſend into the Hold, whilſt the others begin and continue the Battel, until wearied, or the time appointed be expired. After which time the others may be cal<g ref="char:EOLhyphen"/>led up freſh, to manage the Guns, and fight, whilſt the others, wearied, go down to reſt, and refreſh themſelves for the like time they fought: So that 100 Men at a time fight with 250 of their Enemies.</p>
+               <p>Now, on the other hand, the <hi>Dog</hi> being not provided with ſuch defenſive Inſtruments as the other, he calls all his Men to the Battel, that his Decks both above and below, are near filled with them: Many of which are expoſed upon the upper Deck to ply ſmall Shot, <hi>&amp;c.</hi> in the view of their Enemy, which the <hi>Bear's</hi> Men are not.</p>
+               <p>So that the whole conſidered, it is very probable that for every Man the <hi>Bear</hi> loſes, the <hi>Dog</hi> may loſe two, if not three; (all Acci<g ref="char:EOLhyphen"/>dents of both ſides, as loſs of Maſts, Yards, <hi>&amp;c.</hi> being ſet aſide) and conſequently the <hi>Bear</hi> ſo fitted, may be too hard for the <hi>Dog</hi> ſo mann'd.</p>
+            </div>
+            <div type="proposal">
+               <pb n="5" facs="tcp:31719:2"/>
+               <head>Second PROPOSAL. For the more ſafe and ſpeedy landing an Army in an Ene<g ref="char:EOLhyphen"/>mies Country, than hath been yet practiſed.</head>
+               <p>IT is humbly offered to ſhew, how a threefold Defence againſt Horſe and Foot may be planted on the Shoar; two of which will be five foot high, and one of them Muſquet-proof: And may be planted in about half an hour, on any Ground above the Waſh of the Water, (a bare Rock only excepted.)</p>
+               <p>That the ſaid Defences may be taken up in about half an hour, and carried on Mens backs, half a mile, or a mile; and planted again in the like half hour.</p>
+               <p>That by the Security thereof, ten thouſand Men may be land<g ref="char:EOLhyphen"/>ed (it's preſumed) within a few hours, (provided there be Boats ſufficient for that purpoſe.)</p>
+               <p>That the Defences, both ſingly and altogether, may be uſeful in the Field ſeveral ways; as the defending the paſſing a Ford, a Bridg, or Lane, or any Paſſage, tho 100 Yards broad, <hi>&amp;c.</hi>
+               </p>
+               <p>As alſo to defend the Train of Artillery from any Surprize, though planted in an open Field.</p>
+               <p>It is not intended to put the King to one penny Charge, till (by a Model) his Majeſty be ſo well ſatisfied with their uſeful<g ref="char:EOLhyphen"/>neſs, as to order the employing of them.</p>
+               <closer/>
+               <postscript>
+                  <p>The three Defences, with their Intervals, when planted, will be as broad as a Pike is long; that neither Man nor Horſe can leap over any of them, much leſs all.</p>
+                  <p>That the ſaid Defences are each of a different kind: And that all of each kind are fix'd together the whole length they are in<g ref="char:EOLhyphen"/>tended, whether 20, 50 or 100 Yards more or leſs, and all of them faſtned to the Ground: So that it will be very difficult and hazardous for the Enemy to endeavour to ſeparate, and much more to remove them.</p>
+               </postscript>
+            </div>
+            <div type="proposal">
+               <pb n="6" facs="tcp:31719:3"/>
+               <head>Third PROPOSAL. Whereas ordinary Muſquet-Barrels are about three Foot and quarter, and three Foot and a half long, and weigh but about ſix or ſeven Pounds weight each.</head>
+               <p>IT is humbly offered to ſhew how Musquet-Barrels may be made of betwixt four and five, and five and ſix foot long; and weigh about twelve, fourteen or ſix<g ref="char:EOLhyphen"/>teen Pounds each: Which, for length and ſubſtance, will (as is preſum'd) carry a Shot much farther, and do Execution at a much greater Diſtance than any ordinary Barrel.</p>
+               <p>The which ſaid Barrels may be planted on a Waggon of any number to about an hundred; and may be drawn by one Horſe to each Score; and managed by one Man to each Score alſo, and take but about three Foot room in breadth and height.</p>
+               <p>So that one hundred Barrels in a Waggon will require five Horſes and five Men, allowing one Man more to each Waggon, to perform ſeveral Services thereto be<g ref="char:EOLhyphen"/>longing, which are too many here to particularize and explain.</p>
+               <p>That the ſaid ſix Men will be able to meaſure out Powder, <hi>&amp;c.</hi> and charge and diſcharge the ſaid Barrels (every Shot being ram'd down) i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> about four Minutes, which will be about fifteen times in an hour.</p>
+            </div>
+            <div type="proposal">
+               <pb n="7" facs="tcp:31719:3"/>
+               <head>Fourth PROPOSAL. <hi>For Field-Pieces.</hi> That Field-Pieces, of what bore or length ſoever, may be laden with as much Expedition and more Security with<g ref="char:EOLhyphen"/>out Cartheridges and Ladles, as with them: <hi>For theſe three Reaſons,</hi> viz:</head>
+               <p n="1">1. THAT thereby the Charge of Cartheridges will be ſaved.</p>
+               <p n="2">2. That there will be ſo ſpeedy and certain joining and mixing the two Powders, that if the Prime fires, it is not probable the other can miſs, which with Cartherid<g ref="char:EOLhyphen"/>ges they often do, whereby the opportunity of making the Shot, is loſt.</p>
+               <p n="3">3. That it will prevent an Accident, which the Pro<g ref="char:EOLhyphen"/>poſer hath ſeen, <hi>viz.</hi> That when a Gun hath been fired, the Gunner ſpunging the Gun, leaving a Man to ſtop the vent; and he being negligent therein, (as is ſuppo<g ref="char:EOLhyphen"/>ſed) there hath been left ſome Live-ſnuff of the ſhatter<g ref="char:EOLhyphen"/>ed Cartheridge in the Gun, which hath (as believ'd) fi<g ref="char:EOLhyphen"/>red the next Cartheridge that hath been put in, to the deſtruction of the Gunner that was lading the Gun; which, if laden with Powder only, (it is preſum'd) would not have done.</p>
+               <p>That ſuch Proviſion may be made, that will enable two Men to meaſure out Powder without Cartheridges, (and not waſte one pound in a whole Day) as faſt as 20, if not 30 Field-pieces, ſhall be charged and diſcharged.</p>
+               <closer>
+                  <dateline>
+                     <hi>From my Lodgings at Mr.</hi> Foxe<hi>'s Houſe in</hi> Great-Kirby-Street <hi>in</hi> Hatton-Garden,
+<date>
+                        <hi>Jan.</hi> 16. 1689.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <pb facs="tcp:31719:4"/>
+            <pb facs="tcp:31719:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
